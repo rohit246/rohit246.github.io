@@ -81,6 +81,18 @@ background: #b39964;
 .pace .pace-progress {
     background: #b39964;
 }
+.publication-section .date {
+    background: #b39964;
+}
+.publication-section .media h4 {
+    color: #b39964;
+}
+.publication-detail .ext_link {
+    background: #b39964;
+}
+.publication-detail .ext_link:hover {
+    color: #b39964;
+}
 @-webkit-keyframes pulse {
     0% {
         box-shadow: 0 0 0 .1em #b39964;
