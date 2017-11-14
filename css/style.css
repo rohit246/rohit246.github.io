@@ -1516,6 +1516,11 @@ ul.marquee li {
     background: #2b303b;
 }
 
+.publication-section .pdf,
+.publication-detail .pdf {
+    background: #5e5e5e;
+}
+
 .publication-detail {
     position: relative;
     background: #f1f2f5;
