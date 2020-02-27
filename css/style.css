@@ -205,7 +205,6 @@ a.hs-totop-link {
     width: 140px;
     height: 140px;
     padding: 5px;
-    opacity: 0.5;
 }
 
 .hs-headline .profile_info {
@@ -242,8 +241,9 @@ a.hs-totop-link {
 
 .hs-menu {
     position: fixed;
+    font-weight: 500;
     z-index: 999;
-    color: #788195;
+    color: #ffffff;
     width: 240px;
     left: 50px;
     top: 0px;
